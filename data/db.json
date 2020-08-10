@@ -1,0 +1,12 @@
+{
+  "ids": {
+    "Todo": 4
+  },
+  "models": {
+    "Todo": {
+      "1": "{\"title\":\"Coding\",\"id\":1}",
+      "2": "{\"title\":\"Clean\",\"id\":2}",
+      "3": "{\"title\":\"Read\",\"id\":3}"
+    }
+  }
+}
